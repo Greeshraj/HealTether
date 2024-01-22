@@ -1,0 +1,41 @@
+/* Home.css */
+.home-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333;
+    padding: 10px;
+    color: white;
+  }
+  
+  .nav-logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .nav-buttons {
+    display: flex;
+  }
+  
+  .nav-button {
+    text-decoration: none;
+    color: white;
+    background-color: #007bff;
+    padding: 8px 12px;
+    margin-left: 10px;
+    border-radius: 5px;
+  }
+  
+  .main-content {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  /* Add more styles as needed */
+  
